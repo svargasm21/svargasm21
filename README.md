@@ -30,7 +30,7 @@ I'm currently focused on strengthening my foundations in **cybersecurity, securi
 - 🔐 Exploring cybersecurity and secure system design through university activities and self-directed learning.
 - 🧑‍🤝‍🧑 Occasionally attend activities at **UQBAR**, a cybersecurity student group at Universidad Nacional de Colombia.
 
-## 🧰 Technologies I've worked with
+## Technologies I've worked with
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -71,7 +71,7 @@ An information system inspired by university well-being processes, with a relati
 
 **Tech:** Java · MySQL · Relational Database Design
 
-## 🎯 Current learning goals
+## Current learning goals
 
 - **Cybersecurity fundamentals:** networking, Linux security, and secure application design.
 - **Cloud security:** identity and access management, network controls, and security monitoring.
