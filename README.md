@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/joan-sebastian-vargas-mosquera-93b886387/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
-  <a href="mailto:joavargasmo@unal.edu.co">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 *Building software, understanding how systems work, and learning how to make them more secure.*
