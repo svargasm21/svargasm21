@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Joan Sebastian Vargas 👋
+# Hey, I'm Joan Sebastian Vargas 🔭
 
 ### Systems Engineering Student · Backend Development · Cybersecurity
 
