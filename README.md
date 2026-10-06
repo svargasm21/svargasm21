@@ -2,7 +2,7 @@
 
 # Hey, I'm Joan Sebastian Vargas 🔭
 
-### Systems Engineering Student · Backend Development · Cybersecurity
+### Systems Engineering Student · Cybersecurity · Backend Development  
 
 <p>
   <a href="https://github.com/svargasm21">
@@ -13,13 +13,13 @@
   </a>
 </p>
 
-*Building software, understanding how systems work, and learning how to make them more secure.*
+*Never Stop Trying*
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I'm a **Systems Engineering and Computer Science student at Universidad Nacional de Colombia** in Bogotá. I enjoy exploring how software and computer systems work under the hood, from backend services and databases to virtual machines and distributed applications.
 
@@ -29,7 +29,6 @@ I'm currently focused on strengthening my foundations in **cybersecurity, securi
 - 🛠️ Interested in backend development, APIs, databases, and system architecture.
 - 🔐 Exploring cybersecurity and secure system design through university activities and self-directed learning.
 - 🧑‍🤝‍🧑 Occasionally attend activities at **UQBAR**, a cybersecurity student group at Universidad Nacional de Colombia.
-- 🌱 Always learning, building, and documenting what I discover.
 
 ## 🧰 Technologies I've worked with
 
@@ -50,7 +49,7 @@ I'm currently focused on strengthening my foundations in **cybersecurity, securi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 🚀 Selected projects
+## Projects
 
 ### 🧩 ATLAS — Programming Language & Virtual Machine
 A programming language project inspired by Python, with a custom virtual machine based on Von Neumann architecture. The project explores language implementation, CPU/RAM components, and instruction execution.
@@ -72,25 +71,18 @@ An information system inspired by university well-being processes, with a relati
 
 **Tech:** Java · MySQL · Relational Database Design
 
-> 📌 Want to see these projects? Check the repositories pinned on my GitHub profile. I'll keep adding documentation and practical security-focused projects as I build them.
-
 ## 🎯 Current learning goals
 
 - **Cybersecurity fundamentals:** networking, Linux security, and secure application design.
 - **Cloud security:** identity and access management, network controls, and security monitoring.
 - **Infrastructure as Code and DevSecOps:** learning how to make deployments more repeatable and security checks part of the development workflow.
 
-These are learning goals—not a claim of professional experience. I aim to demonstrate progress through documented labs and practical projects.
-
-## 🤝 Let's connect
-
-I'm happy to connect with students, engineers, and communities interested in software engineering and cybersecurity.
+## Contact
 
 - **LinkedIn:** [Joan Sebastian Vargas Mosquera](https://www.linkedin.com/in/joan-sebastian-vargas-mosquera-93b886387/)
-- **Email:** [joavargasmo@unal.edu.co](mailto:joavargasmo@unal.edu.co)
 
 <div align="center">
 
-*Thanks for visiting my profile! ⭐*
+*Thanks for visiting my profile!*
 
 </div>
